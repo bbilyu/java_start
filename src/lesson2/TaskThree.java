@@ -1,5 +1,8 @@
 package lesson2;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class TaskThree {
     public class TreeNode {
         int val;
